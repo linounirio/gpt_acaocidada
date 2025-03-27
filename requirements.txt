@@ -1,0 +1,10 @@
+Flask==3.0.3
+google-genai==1.7.0
+numpy==2.1.2
+python-dotenv==1.0.1
+requests==2.32.3
+streamlit==1.43.0
+httpx==0.28.1
+pdfreader==0.1.15
+PyPDF2==3.0.1
+chromadb==0.6.3
