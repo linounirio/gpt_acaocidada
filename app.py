@@ -8,8 +8,10 @@ from time import sleep
 
 st.set_page_config(page_title="Chatbot", layout="wide")
 
+
 load_dotenv()
-CHAVE_API_GEMINI =os.getenv("GEMINI_API_KEY")
+#CHAVE_API_GEMINI =os.getenv("GEMINI_API_KEY") 
+CHAVE_API_GEMINI = st.secrets["GEMINI_API_KEY"]
 cliente = genai.Client(api_key=CHAVE_API_GEMINI)
 modelo="gemini-2.0-flash"
 
