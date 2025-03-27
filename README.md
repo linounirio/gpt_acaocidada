@@ -16,6 +16,8 @@ O assistente foi criada com as seguinte tecnologias:
  A aplicação criada está aberta no momento que está sendo escrito o relatório, não é necessário login e senha para usá-la, basta fazer o upload do documento que o assistente precisa para analisar e o usuário faz as perguntas na caixa de mensagens.
  
  Para ter maior acurácia e assertividade no objetivo pretendido, utilizou-se os conceitos e técnicas de engenharia de prompt para criação da persona do assistente virtual Ação Cidadã.
+
+ ¹ LLM = Large Language Model
  
  O assistente é capaz de sintetizar dados e informações complexas, oferecendo um formato organizado e de fácil entendimento. Além disso, busca promover uma comunicação amigável e eficaz, com clareza e a compreensão do conteúdo abordado. Sua capacidade de adaptação e aprendizado contínuo permite melhorar constantemente a qualidade das interações e a relevância das informações fornecidas. Em suma, trata-se de um recurso valioso para aqueles que buscam orientação em documentação de projetos, oferecendo suporte técnico e administrativo de maneira eficiente e amigável.
 
